@@ -37,4 +37,8 @@ You can try to use these file servers:
   - Tomcat: http://androidsrc.net/installing-tomcat8-raspberry-pi-3/ 
   - HFS: http://www.rejetto.com/hfs/ or any other server.
 Proxy http to https:
-  - https://technique.arscenic.org/lamp-linux-apache-mysql-php/apache-le-serveur-http/modules-complementaires/article/installer-et-configurer-le-module-ssl-pour-apache2?fbclid=IwAR1_nXNQlrMIdJ5tilVUyr45xeiA91yw21vhnMxWHnuvY01VTd2FVR_T2ao  
+  - https://technique.arscenic.org/lamp-linux-apache-mysql-php/apache-le-serveur-http/modules-complementaires/article/installer-et-configurer-le-module-ssl-pour-apache2?fbclid=IwAR1_nXNQlrMIdJ5tilVUyr45xeiA91yw21vhnMxWHnuvY01VTd2FVR_T2ao
+
+# Tested on two browsers
+  - Opera One version: 126.0.5750.59
+  - Google Chrome version: 140.0.7339.128
